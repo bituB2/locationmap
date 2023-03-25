@@ -1,0 +1,17 @@
+#map-iframe {
+	height: 400px;
+	width: 100%;
+}
+
+button{
+  border-radius: 25px;
+  width: 120px;
+  height: 45px;
+  margin-top: 19px;
+  margin-bottom: 20px;
+  color: whitesmoke;
+  background-color: red;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: pointer;
+}
